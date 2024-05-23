@@ -12,21 +12,21 @@ load_dotenv()
 API_ID = int(getenv("26696109"))
 API_HASH = getenv("c93b995a489c2637e2af1db49d305143")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("6978859841:AAETOD2DYd_A01U4bSzgEKVy2c3lec9UKLs")
+BOT_TOKEN = getenv("7078457377:AAG8LBKxTRNctqCCBKA699p9pW5IUmYlpVg")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("@IamYourProfessor","@IamYourProfessor")
+OWNER_USERNAME = getenv("@IamYourProfessor","IamYourProfessor")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("@Arunima_MusicBOT" , "ArunimaXBot")
+BOT_USERNAME = getenv("@LUWEESA_MUSIC_BOT" , "ArunimaXBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("ArunimaXMusic" , "Arunimaq")
+BOT_NAME = getenv("LuweesaXmusic" , "Arunimaq")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "LuweesaMusic")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("", None)
+MONGO_DB_URI = getenv("mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority", None)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -45,9 +45,9 @@ OWNER_ID = int(getenv("OWNER_ID", 6714533496))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("LuweesaXmusic13")
 # ----------------------------------------------------------------
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HRKU-c2495f03-2484-4c1c-87a8-25845d4da8a2")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
